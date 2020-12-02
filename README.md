@@ -1,4 +1,4 @@
-Project_SW
+Project 501
 
 The goal of this project is to create a cool little star wars game.
 
